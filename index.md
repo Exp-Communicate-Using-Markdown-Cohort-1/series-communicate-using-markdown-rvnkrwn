@@ -5,3 +5,7 @@
 ```
 $ composer global require laravel/installer
 ```
+
+- [ ] Mudah
+- [ ] Sedang
+- [ ] Sulit
